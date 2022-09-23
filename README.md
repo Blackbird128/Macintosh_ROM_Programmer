@@ -5,5 +5,6 @@ https://github.com/dougg3/mac-rom-simm-programmer
 Updated with USB-C, smaller, power switch...
 
 ![Alt text](/V1.1_front.png?raw=true "Programmer")
+![Alt text](/prog.jpg?raw=true "Programmer")
 
 Gerber and more infos to come...
